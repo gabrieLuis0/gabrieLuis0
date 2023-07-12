@@ -21,7 +21,7 @@
 
 <ul>
         <li><img src="icones/github.png" alt="github"> <a href="https://github.com/Spyware0/" rel="external" target="_blank">Github</a>
-        <li><img src="icones/instagram.png" alt="instagram"> <a href="https://www.instagram.com/biel_.s0/" rel="external" target="_blank">Instagram</a>
+        <li><img src="icones/instagram.png" alt="instagram"> <a href="https://www.instagram.com/gabrieluis.dev/" rel="external" target="_blank">Instagram</a>
         <li><img src="icones/youtube.png" alt="youtube"> <a href="https://www.youtube.com/channel/UCcwKrlDBhgBG9_3IA82kEhg/" rel="external" target="_blank">Youtube</a>
         <li><img src="icones/whatsapp.png" alt="whatsapp"> <a href="http://wa.me/559885267746/" rel="external" target="_blank">Whatsapp</a>
         
